@@ -10,11 +10,11 @@
 - 💹 I also do Stock Market
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShahStavan&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShahStavan)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShahStavan)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShahStavan)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShahStavan)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShahStavan)  
 
