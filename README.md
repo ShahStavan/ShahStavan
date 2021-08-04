@@ -1,3 +1,4 @@
+
 ## Heyy Folks, I'm Stavan Shah ✌👨‍💻
 <h4>I am a DataAnalyst in Python. Besides I am also learning Artificial Intelligence in Python to be more accurate. I also enjoy UI/UX designing in Figma</h4>
 <h5>Languages - C++, Python, Java and JavaScript</h5>
@@ -12,8 +13,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ShahStavan&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShahStavan)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShahStavan)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShahStavan)  
 
