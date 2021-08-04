@@ -5,11 +5,15 @@
 <h5>Environment : Vscode and Jupyter Notebook</h5>
 <h6>I am more active on <a href="https://gist.github.com/ShahStavan">Gist Github</a> where you can get my regular coding updates.</h6>
 
+### About Me:
+
 - 🔭 I’m currently working on AlgoTrading which means tracking a particular stock and trying to generate a Buy and Sell call based on our Studies
 - 🌱 I’m currently learning DataScience and AI in Python
 - 📫 How to reach me: Instagram ID - <a href="https://www.instagram.com/mr.shah.01/">mr.shah.01</a> or Twitter ID - <a href="https://twitter.com/StavanS64859518">@StavanS64859518</a>
 - 💹 I also do Stock Market
+- 🤵 Experience: HTML,CSS,Bootstrap,C,C++,Java,Python and JavaScript
 
+### Github Readme-Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ShahStavan&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ### Github streak Stats
