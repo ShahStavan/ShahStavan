@@ -27,3 +27,4 @@
 - <a href="https://gist.github.com/ShahStavan/61a402d044c5789796403306ee91f30c">Know Your Geolocation using JavaScript 🐱‍👤</a>
 - <a href="https://gist.github.com/ShahStavan/45228a1a0b5a1f5663ded1c41176ba77">Program to find second maximum of n numbers without using arrays in Java 🐱‍ </a>
 - <a href="https://gist.github.com/ShahStavan/4af77958e84169c66e3311722901c449">Converting number to word in C++ and Java 🧑</a>
+- <a href="https://gist.github.com/ShahStavan/6ca64ecd061b7d3a42dc9c465cbd43f5">Capturing video using WEBCAM in Python using <strong>opencv2</strong></a>
