@@ -1,11 +1,14 @@
-
-## Heyy Folks, I'm Stavan Shah ✌👨‍💻
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/806947/screenshots/4698193/drink_coffee-resize.gif" height="500"/>
+</p>
+<hr>
+<h1 align="center">Heyy Folks <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 <h4>I am a DataAnalyst in Python. Besides I am also learning Artificial Intelligence in Python to be more accurate. I also enjoy UI/UX designing in Figma</h4>
 <h5>Languages - C++, Python, Java and JavaScript</h5>
 <h5>Environment : Vscode and Jupyter Notebook</h5>
 <h6>I am more active on <a href="https://gist.github.com/ShahStavan">Gist Github</a> where you can get my regular coding updates.</h6>
 
-### About Me:
+<h2 align="center">About Me</h2>
 
 - 🔭 I’m currently working on AlgoTrading which means tracking a particular stock and trying to generate a Buy and Sell call based on our Studies
 - 🌱 I’m currently learning DataScience and AI in Python
@@ -13,18 +16,30 @@
 - 💹 I also do Stock Market
 - 🤵 Experience: HTML,CSS,Bootstrap,C,C++,Java,Python and JavaScript
 
-### Github Readme-Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ShahStavan&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<h2 align="center">Github Readme-Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahStavan&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
 
-### Github streak Stats
+<h2 align="center">Github streak Stats</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahStavan"/>
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShahStavan)  
+<h2 align="center">Top Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahStavan" width="400"/>
+</p>
 
-### Github Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShahStavan)  
+<h2 align="center">Github Activity Graphs</h2>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ShahStavan"/>
+</p>
 
-### Recent Gists
+
+<h2 align="center">Recent Gists</h2>
+
 - <a href="https://gist.github.com/ShahStavan/61a402d044c5789796403306ee91f30c">Know Your Geolocation using JavaScript 🐱‍👤</a>
 - <a href="https://gist.github.com/ShahStavan/45228a1a0b5a1f5663ded1c41176ba77">Program to find second maximum of n numbers without using arrays in Java 🐱‍ </a>
 - <a href="https://gist.github.com/ShahStavan/4af77958e84169c66e3311722901c449">Converting number to word in C++ and Java 🧑</a>
-- <a href="https://gist.github.com/ShahStavan/6ca64ecd061b7d3a42dc9c465cbd43f5">Capturing video using WEBCAM in Python using <strong>opencv2</strong></a>
+- <a href="https://gist.github.com/ShahStavan/6ca64ecd061b7d3a42dc9c465cbd43f5">Capturing video using WEBCAM in Python using <strong>opencv2</strong>🤖</a>
