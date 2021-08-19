@@ -39,7 +39,9 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=ShahStavan"/>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahstavan&label=Profile%20views&color=0e75b6&style=flat" alt="shahstavan" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahstavan" alt="shahstavan" /></a> </p>
 <h2 align="center">Recent Gists</h2>
 
 - <a href="https://gist.github.com/ShahStavan/61a402d044c5789796403306ee91f30c">Know Your Geolocation using JavaScript 🐱‍👤</a>
