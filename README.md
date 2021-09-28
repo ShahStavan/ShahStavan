@@ -39,7 +39,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=ShahStavan"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahstavan&label=Profile%20views&color=0e75b6&style=flat" alt="shahstavan" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=shahstavan&label=Profile%20views&color=0e75b6&style=flat" alt="shahstavan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahstavan" alt="shahstavan" /></a> </p>
 <!--START_SECTION:waka-->
@@ -50,3 +50,9 @@
 - <a href="https://gist.github.com/ShahStavan/45228a1a0b5a1f5663ded1c41176ba77">Program to find second maximum of n numbers without using arrays in Java 🐱‍ </a>
 - <a href="https://gist.github.com/ShahStavan/4af77958e84169c66e3311722901c449">Converting number to word in C++ and Java 🧑</a>
 - <a href="https://gist.github.com/ShahStavan/6ca64ecd061b7d3a42dc9c465cbd43f5">Capturing video using WEBCAM in Python using <strong>opencv2</strong>🤖</a>
+
+
+<hr>
+<h3 align="center">Show some ❤️ by ⭐ing Repositories😅✌️</h3>
+<h3 align="center">You can even check my Website <a href="clickarc.bss.design">ClickArc - Shah Stavan</a> and even share website if you 🤍 the content.</h3>
+
