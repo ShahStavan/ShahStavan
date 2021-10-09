@@ -44,13 +44,18 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahstavan" alt="shahstavan" /></a> </p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<hr>
+<h2 align="center">Recent Posts on Website</h2>
+
+- <a href="http://clickarc.bss.design/Posts/Django-for-Everyone[1].html">DJANGO FOR EVERYONE - DJango Basics 😁</a>
+
+<hr>
 <h2 align="center">Recent Gists</h2>
 
 - <a href="https://gist.github.com/ShahStavan/61a402d044c5789796403306ee91f30c">Know Your Geolocation using JavaScript 🐱‍👤</a>
 - <a href="https://gist.github.com/ShahStavan/45228a1a0b5a1f5663ded1c41176ba77">Program to find second maximum of n numbers without using arrays in Java 🐱‍ </a>
 - <a href="https://gist.github.com/ShahStavan/4af77958e84169c66e3311722901c449">Converting number to word in C++ and Java 🧑</a>
 - <a href="https://gist.github.com/ShahStavan/6ca64ecd061b7d3a42dc9c465cbd43f5">Capturing video using WEBCAM in Python using <strong>opencv2</strong>🤖</a>
-
 
 <hr>
 <h3 align="center">Show some ❤️ by ⭐ing Repositories😅✌️</h3>
