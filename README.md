@@ -43,9 +43,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahstavan" alt="shahstavan" /></a> </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
@@ -124,7 +122,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShahStavan/ShahStavan/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/02/2022 07:21:05 UTC
+ Last Updated on 22/02/2022 18:47:09 UTC
 <!--END_SECTION:waka-->
 <hr>
 <h2 align="center">Recent Posts on Website</h2>
