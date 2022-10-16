@@ -43,7 +43,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shahstavan&label=Profile%20views&color=0e75b6&style=flat" alt="shahstavan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahstavan" alt="shahstavan" /></a> </p>
-[![@mrshah_01's Holopin board](https://holopin.me/mrshah_01)](https://holopin.io/@mrshah_01)
+[![@mrshah](https://holopin.me/mrshah_01)](https://holopin.io/@mrshah_01)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
