@@ -1,19 +1,13 @@
-# नमस्ते (Namaste) :pray:, I'm Dev Mehta :man_technologist:
+# नमस्ते (Namaste) :pray:, I'm Shah Stavan :man_technologist:
 A Full Stack Web Developer and Django Enthusiast
 
 **"the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do"**
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShahStavan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
-![Dev Mehta's github stats](https://github-readme-stats.vercel.app/api?username=ShahStavan&count_private=true&show_icons=true&theme=nightowl)
+![Shah Stavan's github stats](https://github-readme-stats.vercel.app/api?username=ShahStavan&count_private=true&show_icons=true&theme=nightowl)
 
 <img src="https://komarev.com/ghpvc/?username=Dev-Mehta" />
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2054%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
-
 
 
 **Timeline**
