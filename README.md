@@ -1,5 +1,5 @@
 <h1 align="center">Namaste🙏, I'm Shah Stavan</h1>
-<h3 align="center">Summer Intern @V360 Technology Inc / Technical Head @ CSI / Freelancer / Content Creator / Full-Stack Developer / Building cool products leveraging Large Language Models</h3>
+<h3 align="center">Software Developer Intern @D360 Technology Inc / Technical Head @ CSI / Freelancer / Content Creator / Full-Stack Developer / Building cool products leveraging Large Language Models</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahstavan&label=Profile%20views&color=0e75b6&style=flat" alt="shahstavan" /> </p>
 
