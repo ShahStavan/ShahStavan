@@ -27,7 +27,7 @@
 <hr />
 
 <h2 align="center">About Me 🚀</h2>
-<p align="center">
+<p align="left">
 I'm a passionate and driven developer 🎯 building impactful products using large language models (LLMs). I thrive on adapting to new technologies and embracing versatility. 🔄
 <br>
 I'm committed to continuous learning 📚, expanding my knowledge in computer science and related fields like finance, economics, and public relations 📈 to enhance my career and future prospects.
