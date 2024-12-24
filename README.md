@@ -1,9 +1,5 @@
 <h1 align="center">Namaste🙏, I'm Shah Stavan</h1>
 
-<div align="center">
-<img src="https://media.giphy.com/media/U47Xj1r0x70fXf444c/giphy.gif" width="100" height="100" alt="Animated Hello" />
-</div>
-
 <h3 align="center">
   Software Developer Intern @D360 Technology Inc / Ex-Technical Head @ CSI / Freelancer / Content Creator / Full-Stack Developer / Building cool products leveraging Large Language Models
 </h3>
