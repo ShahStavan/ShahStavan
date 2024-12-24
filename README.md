@@ -129,10 +129,6 @@ I'm a Generative AI engineer at D360 Technology 🧑‍💻. My work focuses on 
 <!--END_SECTION:waka-->
 <br />
 <hr />
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=shahstavan.shahstavan" alt="visitor badge"/>
-</p>
-<hr />
 
 <h2 align="center">Connect with Me 🔗</h2>
 
