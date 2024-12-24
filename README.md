@@ -22,5 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahstavan&show_icons=true&locale=en&layout=compact" alt="shahstavan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahstavan&show_icons=true&locale=en" alt="shahstavan" /></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahstavan&" alt="shahstavan" /></p>
