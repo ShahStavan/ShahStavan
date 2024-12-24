@@ -4,7 +4,7 @@
   Software Developer Intern @D360 Technology Inc / Ex-Technical Head @ CSI / Freelancer / Content Creator / Full-Stack Developer / Building cool products leveraging Large Language Models
 </h3>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Badge"/>
   <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Google Gemini Badge"/>
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
@@ -12,42 +12,30 @@
 </div>
 <br>
 
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=shahstavan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<p align="left">
+  <a href="https://u8views.com/github/ShahStavan"><img src="https://u8views.com/api/v1/github/profiles/66560566/views/day-week-month-total-count.svg"></a>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shahstavan" alt="Shah Stavan's GitHub Trophy" />
   </a>
 </p>
-<p align="center">
-  <a href="https://u8views.com/github/ShahStavan"><img src="https://u8views.com/api/v1/github/profiles/66560566/views/day-week-month-total-count.svg"></a>
-</p>
 <br />
 <hr />
-
 
 <h2 align="center">About Me 🚀</h2>
 <p align="center">
-  I am a passionate software developer with a knack for problem-solving and building innovative solutions. I enjoy the process of bringing ideas to life through code and exploring new technologies.
+I'm a passionate and driven developer 🎯 building impactful products using large language models (LLMs). I thrive on adapting to new technologies and embracing versatility. 🔄
+<br>
+I'm committed to continuous learning 📚, expanding my knowledge in computer science and related fields like finance, economics, and public relations 📈 to enhance my career and future prospects.
+<br>
+I'm a passionate writer and reader 📖. My articles in Open Source For You magazine (reaching 150,000+ readers globally) and my dev.to blog (50,000+ views) share my technical expertise. ✍️🌍
+<br>
+I'm a Generative AI engineer at D360 Technology 🧑‍💻. My work focuses on integrating large language model (LLM) outputs into our React JS products. 🚀
 </p>
-
-<br />
-<hr />
-
-<h2 align="center">Connect with Me 🔗</h2>
-
-<div align="center">
-    <a href="https://dev.to/shahstavan" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/_shahstavan_" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/stavan-shah-810b4819a" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-</div>
 <br />
 <hr />
 
@@ -144,3 +132,19 @@
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=shahstavan.shahstavan" alt="visitor badge"/>
 </p>
+<hr />
+
+<h2 align="center">Connect with Me 🔗</h2>
+
+<div align="center">
+    <a href="https://dev.to/shahstavan" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/_shahstavan_" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/stavan-shah-810b4819a" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+</div>
+<br />
