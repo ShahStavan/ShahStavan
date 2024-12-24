@@ -102,11 +102,6 @@ I'm a Generative AI engineer at D360 Technology 🧑‍💻. My work focuses on 
 <h2 align="center">GitHub Activity 📊</h2>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahstavan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br>
@@ -117,11 +112,6 @@ I'm a Generative AI engineer at D360 Technology 🧑‍💻. My work focuses on 
 <br />
 <hr />
 
-<h2 align="center">Recent Blog Posts 📝</h2>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<br />
-<hr />
 <h2 align="center">Recent Activity ⚡</h2>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
