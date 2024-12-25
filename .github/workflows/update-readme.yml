@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: shahstavan/github-activity-readme@master
+      - uses: shahstavan/shahstavan@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
