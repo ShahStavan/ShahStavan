@@ -23,7 +23,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=shahstavan" alt="Shah Stavan's GitHub Trophy" />
   </a>
 </p>
-<br />
 <hr />
 
 <h2 align="center">About Me 🚀</h2>
@@ -36,7 +35,6 @@ I'm a passionate writer and reader 📖. My articles in Open Source For You maga
 <br>
 I'm a Generative AI engineer at D360 Technology 🧑‍💻. My work focuses on integrating large language model (LLM) outputs into our React JS products. 🚀
 </p>
-<br />
 <hr />
 
 <h2 align="center">Skills & Tools 🛠️</h2>

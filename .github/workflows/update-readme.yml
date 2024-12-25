@@ -1,7 +1,7 @@
 name: Update README
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "0 0 * * *" # Run daily at midnight UTC
   workflow_dispatch:
 jobs:
   build:
