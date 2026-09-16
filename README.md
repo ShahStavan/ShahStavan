@@ -1,7 +1,7 @@
 <h1 align="center">Namaste🙏, I'm Shah Stavan</h1>
 
 <h3 align="center">
-  Software Developer Intern @D360 Technology Inc / Ex-Technical Head @ CSI / Freelancer / Content Creator / Full-Stack Developer / Building cool products leveraging Large Language Models
+ Ex-Technical Head @ CSI / Freelancer / Content Creator / Full-Stack Developer / Building cool products leveraging Large Language Models
 </h3>
 
 <div align="left">
